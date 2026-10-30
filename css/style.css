@@ -35,11 +35,11 @@ body {
     text-decoration: none;
     color: #ffffff;
     font-size: 14px;
-    display: inline-block; /* Scale effect kaj korar jonno display inline-block korte hoy */
+    display: inline-block; 
     transition: transform 0.3s ease, color 0.3s ease;
 }
 
-/* Nav button-e mouse nile ektu boro hobe */
+
 .nav-links a:hover {
     color: #b7e4c7;
     transform: scale(1.15); 
@@ -102,7 +102,7 @@ textarea {
     resize: none;
 }
 
-/* Register / Submit Button - Mouse nile boro hobe */
+
 input[type="submit"] {
     background-color: white;
     color: #173b1a;
